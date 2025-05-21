@@ -1,0 +1,3 @@
+/home/hydrive/Desktop/Telemetry/build/CMakeFiles/main.dir
+/home/hydrive/Desktop/Telemetry/build/CMakeFiles/edit_cache.dir
+/home/hydrive/Desktop/Telemetry/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/hall_sensor.cpp.o CMakeFiles/main.dir/src/readings.cpp.o CMakeFiles/main.dir/src/sd_card_save.cpp.o CMakeFiles/main.dir/src/mqtt_communication.cpp.o -o main  -lgpiod -lmosquitto -lpthread 
