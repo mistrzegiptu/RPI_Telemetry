@@ -1,2 +1,3 @@
 First run ***cmake build*** in main folder
-Then ***cd build**, ***make*** and ***./main***
+
+Then ***cd build***, ***make*** and ***./main***
